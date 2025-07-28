@@ -1,2 +1,2 @@
 # thomsoGithub
-This is Sanat branch
+Hi this push is from aditya
